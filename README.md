@@ -1,5 +1,9 @@
 # Saluton
-Created by Catherine Yeo, Eileen Pan, Karina Halevy, and Katherine Mohr. Second place overall winner at HSHacks III. Devpost here: https://devpost.com/software/saluton-aiuqjf.
+Second place overall winner at [HSHacks III](www.hshacks3.devpost.com). Devpost here: https://devpost.com/software/saluton-aiuqjf. Created by:
+- Catherine Yeo [@catyeo18](https://github.com/catyeo18) 
+- Eileen Pan
+- Karina Halevy [@ENSCMA2](https://github.com/ENSCMA2)
+- Katherine Mohr [@katm10](https://github.com/katm10)
 
 ## Description
 Saluton is a chatbot allows you to practice Mandarin with a conversational partner, and it is customized to your level. 
